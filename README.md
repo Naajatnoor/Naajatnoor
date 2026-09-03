@@ -63,9 +63,7 @@ Currently, I'm focused on expanding my knowledge in **React** and **Node.js** wh
 
 ## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Najaatnoor/Najaatnoor/output/github-snake-dark.svg" alt="Snake animation" />
-</p>
+![Snake animation](https://raw.githubusercontent.com/Naajatnoor/Naajatnoor/output/github-contribution-grid-snake.svg)
 
 
 
