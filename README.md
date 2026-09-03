@@ -29,12 +29,14 @@ Currently, I'm gaining experience with **JavaScript**, **TypeScript**, **React**
 
 ---
 
-##  🚀Current Activities
+## 🚀 Current Activities
 
 > 📍 **Location:** Sylhet, Bangladesh  
+> 📧 **Email   :** naajatnoor@gmail.com  
 > 💻 **Building:** Frontend Projects  
 > 🌱 **Learning:** TypeScript, React & Node.js  
 > 📚 **Exploring:** Modern Web Development  
+
 ---
 <br>
 
