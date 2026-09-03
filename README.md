@@ -7,18 +7,18 @@
   src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=1800&pause=1000&color=000000&background=FFFFFF00&center=true&vCenter=true&width=520&lines=Learning+Full-Stack+Web+Development;Currently+gaining+experience+with-;HTML;CSS;JavaScript;TypeScript;Tailwind+CSS;React;Node.js"
   alt="Typing SVG"
 />
-
+---
 </div>
 
-
-
 ## 👩‍💼About Me  
-I'm a passionate full-stack developer who enjoys building modern, high-performance web applications. I love working with **JavaScript** and **TypeScript**, and I'm always exploring new tools to improve my workflow.  
-Currently, I'm focused on expanding my knowledge in **React** and **Node.js** while continuously expanding my knowledge through practice
+I'm a Computer Science & Engineering (CSE) student from Bangladesh, currently learning **Full-Stack Web Development**.
+
+I enjoy building responsive websites, exploring modern web technologies, and improving my skills through hands-on projects.
+
+Currently, I'm gaining experience with **JavaScript**, **TypeScript**, **React**, **Tailwind CSS**, and **Node.js** while continuously learning and building new projects.
 
 ---
 
-<br>
 ## 🛠️ Tech Stack
 
 | Category | Technologies |
@@ -28,15 +28,35 @@ Currently, I'm focused on expanding my knowledge in **React** and **Node.js** wh
 | **Tools & Others** | ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
 
 ---
-<br><br>
-## 🚀 Current Activities
+
+##  🚀Current Activities
 
 > 📍 **Location:** Sylhet, Bangladesh  
 > 💻 **Building:** Frontend Projects  
 > 🌱 **Learning:** TypeScript, React & Node.js  
 > 📚 **Exploring:** Modern Web Development  
 ---
-<br><br>
+<br>
+
+## 🎓 Education
+
+```text
+
+🎓 Degree      :: B.Sc. in Computer Science & Engineering
+🏫 University  :: Leading University, Sylhet
+📚 Status      :: Undergraduate Student(2nd year 2nd semester)
+⭐ CGPA        :: 3.89
+
+```
+
+## 🎯 2026 Goals
+
+- Build 20+ frontend projects
+- Learn React & Next.js
+- Master JavaScript
+- Contribute to Open Source
+- Create a personal portfolio
+
 
 ## 🌐 Connect With Me
 
@@ -67,11 +87,6 @@ Currently, I'm focused on expanding my knowledge in **React** and **Node.js** wh
 
 
 
-## 📈 Contribution Graph
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Naajatnoor&bg_color=000000&color=808080&line=808080&point=FFFFFF&area=true&area_color=404040&title_color=D3D3D3&hide_border=true&custom_title=Najaat%20Noor's%20Contribution%20Graph" alt="Contribution Graph" />
-</p>
 
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=D3D3D3C&height=2&section=header" alt="divider" />
