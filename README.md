@@ -4,18 +4,17 @@
   src="https://capsule-render.vercel.app/api?type=transparent&height=140&section=header&text=NAAJAT%20NOOR&fontSize=60&fontColor=000000&fontAlignY=42&desc=TURNING%20IDEAS%20INTO%20WEB%20EXPERIENCES&descSize=16&descAlign=50&descAlignY=80&descColor=404040&animation=fadeIn" width="100%"
 />
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=1800&pause=1000&color=000000&background=FFFFFF00&center=true&vCenter=true&width=520&lines=Learning+Full-Stack+Web+Development;Currently+gaining+experience+with-;HTML;CSS;JavaScript;TypeScript;Tailwind+CSS;React;Node.js"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=1800&pause=1000&color=000000&background=FFFFFF00&center=true&vCenter=true&width=520&lines=Learning+Full-Stack+Web+Development;Currently+Learning:;HTML;CSS;JavaScript;TypeScript;Tailwind+CSS;React;Node.js"
   alt="Typing SVG"
 />
+
 ---
 </div>
 
 ## 👩‍💼About Me  
 I'm a Computer Science & Engineering (CSE) student from Bangladesh, currently learning **Full-Stack Web Development**.
-
 I enjoy building responsive websites, exploring modern web technologies, and improving my skills through hands-on projects.
-
-Currently, I'm gaining experience with **JavaScript**, **TypeScript**, **React**, **Tailwind CSS**, and **Node.js** while continuously learning and building new projects.
+Currently, I'm expanding my skills in **JavaScript**, **TypeScript**, **React**, **Tailwind CSS**, and **Node.js** while continuously learning and building new projects.
 
 ---
 
@@ -24,7 +23,7 @@ Currently, I'm gaining experience with **JavaScript**, **TypeScript**, **React**
 | Category | Technologies |
 |----------|--------------|
 | **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white) ![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwind-css&logoColor=white) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) |
 | **Tools & Others** | ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
 
 ---
@@ -46,7 +45,7 @@ Currently, I'm gaining experience with **JavaScript**, **TypeScript**, **React**
 
 🎓 Degree      :: B.Sc. in Computer Science & Engineering
 🏫 University  :: Leading University, Sylhet
-📚 Status      :: Undergraduate Student(2nd year 2nd semester)
+📚 Status      :: Undergraduate Student (2nd Year • 2nd Semester)
 ⭐ CGPA        :: 3.89
 
 ```
@@ -54,7 +53,6 @@ Currently, I'm gaining experience with **JavaScript**, **TypeScript**, **React**
 ## 🎯 2026 Goals
 
 - Build 20+ frontend projects
-- Learn React & Next.js
 - Master JavaScript
 - Contribute to Open Source
 - Create a personal portfolio
@@ -64,7 +62,7 @@ Currently, I'm gaining experience with **JavaScript**, **TypeScript**, **React**
 
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Naajatnoor)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-username)
-[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naajatnoor@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naajatnoor@gmail.com)
 
 ---
 <br>
